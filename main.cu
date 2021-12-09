@@ -1,3 +1,4 @@
+//cuda worm 1 code
 #include <iostream>
 #include <math.h>
 #include <random>
